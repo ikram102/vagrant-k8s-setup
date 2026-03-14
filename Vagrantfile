@@ -1,4 +1,4 @@
-IMAc:GE_NAME = "bento/ubuntu-22.04"
+IMAGE_NAME = "bento/ubuntu-22.04":w
 N = 2
 
 Vagrant.configure("2") do |config|
